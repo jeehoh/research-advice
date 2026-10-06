@@ -57,7 +57,7 @@ Admittedly, as a technical HCI researcher, my collection is biased towards STEM 
 ## Mental Health
 
 > [!CAUTION]
-> The following resources discuss mental health and may contain sensitive content.
+> This section contains vivid discussions on mental health. I'm including this content in order to raise awareness about the challenges and experiences related to mental health in academia. If you are currently in crisis, please seek help immediately from a mental health professional or a crisis hotline (e.g., [Mental Health America](https://mhanational.org/resources/getting-mental-health-help/)).
 
 - [200Bn Weights of Responsibility](https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/edit?tab=t.0#heading=h.1dlv7gghyx56) by Felix Hill
 - [On Mental Health, Psychedelics and Life](https://docs.google.com/document/d/1-jBoSEVlryiX1IaSzV4vKuihDfm_LgXUznvSpl1T1kg/edit?tab=t.0#heading=h.vnjrknmu0cff) by Felix Hill
