@@ -26,7 +26,7 @@ Admittedly, as a technical HCI researcher, my collection is biased towards STEM 
 
 ## Thriving in Graduate School
 
-- [How I Survived a Ph.D. When I Didn’t Have a Clue](https://paoponder.com/blog/how-i-survived-a-phd) by Pao Siangliulue
+- [How I Survived a Ph.D. When I Didn’t Have a Clue](https://paoponder.com/writing/how-i-survived-a-phd) by Pao Siangliulue
 
 ## Research Process
 
