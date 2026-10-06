@@ -1,22 +1,41 @@
 # Research Advice
 
-## Going to Graduate School
+This repository contains curated advice and resources for navigating various aspects of research and graduate school that provided helpful insights *for me*. As such, I also took the liberty of adding small commentaries and takeaways where relevant.
 
-### Why?
+Admittedly, as a technical HCI researcher, my collection is biased towards STEM fields, especially computer science, so it may not cover perspectives from other non-technical disciplines.
+
+## Applying to Graduate Schools
+
+### Why should I do a PhD?
+
+- [On the Value of Doing a PhD in the Age of AI](https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html) by Phillip Isola
+
+  > At the end of the day, a sufficient answer can just be this: for the love of the game.
+
+- [Seven things that you should know about doing a PhD](https://substack.com/@aisnakeoil/note/c-347223177) by Arvind Narayanan. All of these are very good points, here are a couple that resonated with me:
+
+  > A PhD is a terrible financial decision.
+
+  > Don't let a few rejections deter you. There are many reasons having nothing to do with you why your application may be rejected, especially in a time of budget cuts.
 
 - [Should I Do a PhD? Top 5 Reasons a PhD Is a Good Idea](https://www.linkedin.com/pulse/should-i-do-phd-top-5-reasons-good-idea-rishabh-jain/) by Rishabh Jain
 
 ### How?
 
+- [How to Email a Professor About Joining Their Lab](https://csprofkgd.github.io/emailing-professors/) by Konstantinos (Kosta) Derpanis
+
 ## Thriving in Graduate School
 
 - [How I Survived a Ph.D. When I Didn’t Have a Clue](https://paoponder.com/blog/how-i-survived-a-phd) by Pao Siangliulue
+
+## Research Process
+
+- [How to Read a Paper](https://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by Srinivasan Keshav
 
 ## Research Style
 
 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) by John Schulman [[Takeaways](./opinionated-guide-to-ml-research/README.md)]
 - [Takeaways from "Some Tips for Ph.D Students (in the field of AI)" by Jinwoo Shin](https://www.threads.com/@nowhere_mulleonal/post/DHLH5sWyiQk) by @nowhere_mulleonal
-- [How to Read a Paper](https://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by Srinivasan Keshav
 
 ## Advising Style
 
@@ -36,6 +55,9 @@
 - [CS Jobs at Undergrad Institutions (PUIs)](https://cs-pui.github.io/)
 
 ## Mental Health
+
+> [!CAUTION]
+> The following resources discuss mental health and may contain sensitive content.
 
 - [200Bn Weights of Responsibility](https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/edit?tab=t.0#heading=h.1dlv7gghyx56) by Felix Hill
 - [On Mental Health, Psychedelics and Life](https://docs.google.com/document/d/1-jBoSEVlryiX1IaSzV4vKuihDfm_LgXUznvSpl1T1kg/edit?tab=t.0#heading=h.vnjrknmu0cff) by Felix Hill
