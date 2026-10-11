@@ -1,8 +1,10 @@
 # Research Advice
 
-This repository contains curated advice and resources for navigating various aspects of research and graduate school that provided helpful insights *for me*. As such, I also took the liberty of adding small commentaries and takeaways where relevant.
+This repository contains a collection of advices from the internet for navigating various aspects of graduate school that provided helpful insights *for me*. I also took the liberty of adding small commentaries and takeaways where relevant.
 
-Admittedly, as a technical HCI researcher, my collection is biased towards STEM fields, especially computer science, so it may not cover perspectives from other non-technical disciplines.
+I am committed to pluralism in the sources I include, so please note that my inclusion of sources doesn't necessarily imply personal endorsement. Furthermore, as a technical HCI researcher, my collection is skewed towards technical and STEM-related fields, and may not represent perspectives from other disciplines.
+
+Please feel free to fork this repository, suggest edits, or contribute additional resources that you'd like to see included.
 
 ## Applying to Graduate Schools
 
@@ -11,6 +13,10 @@ Admittedly, as a technical HCI researcher, my collection is biased towards STEM 
 - [On the Value of Doing a PhD in the Age of AI](https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html) by Phillip Isola
 
   > At the end of the day, a sufficient answer can just be this: for the love of the game.
+
+- [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/) by Álvaro Lozano-Robledo
+
+  > ...the decision to do a PhD should not be based on the current state of the art of technology.
 
 - [Seven things that you should know about doing a PhD](https://substack.com/@aisnakeoil/note/c-347223177) by Arvind Narayanan. All of these are very good points, here are a couple that resonated with me:
 
@@ -50,9 +56,10 @@ Admittedly, as a technical HCI researcher, my collection is biased towards STEM 
 - [Reviewer Critiques (Qualitative Methods) and How to Respond to Them](https://docs.google.com/document/d/1jHiWJdkjm6Go683GIxi0tz8l-17rQQpadn9qb7zZDh4/edit?tab=t.0) by Jessica Vitak and contributors
 - [Writing Tips](https://docs.google.com/document/d/1uGyxOGdND1v1HFWzeh6t4uEM-bDVWWF2JwiwfJoisfM/edit?usp=sharing) by Rob Miller and UID members
 
-## Job Search
+## Job Market
 
 - [CS Jobs at Undergrad Institutions (PUIs)](https://cs-pui.github.io/)
+- [Unsolicited advice on HCI (Industry) Job Market](https://minsukchang.com/blog/2026-01-14-hci-in-ai.md.html) by Minsuk Chang
 
 ## Mental Health
 
