@@ -32,6 +32,7 @@ Please feel free to fork this repository, suggest edits, or contribute additiona
 
 ## Thriving in Graduate School
 
+- [The Real Cost of Following Your Academic Dream](https://www.youtube.com/watch?v=IM6Qp3yXNro) by Andrew Akbashev [[Takeaways](./the-real-cost-of-following-your-academic-dream/README.md)]
 - [How I Survived a Ph.D. When I Didn’t Have a Clue](https://paoponder.com/writing/how-i-survived-a-phd) by Pao Siangliulue
 
 ## Research Process
