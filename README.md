@@ -29,11 +29,13 @@ Please feel free to fork this repository, suggest edits, or contribute additiona
 ### How?
 
 - [How to Email a Professor About Joining Their Lab](https://csprofkgd.github.io/emailing-professors/) by Konstantinos (Kosta) Derpanis
+- [Notes: PhD Application Series](https://khhuang.me/blog/categories/#PhD%20Application%20Series) by Kuan-Hao Huang
 
 ## Thriving in Graduate School
 
 - [The Real Cost of Following Your Academic Dream](https://www.youtube.com/watch?v=IM6Qp3yXNro) by Andrew Akbashev [[Takeaways](./the-real-cost-of-following-your-academic-dream/README.md)]
 - [How I Survived a Ph.D. When I Didn’t Have a Clue](https://paoponder.com/writing/how-i-survived-a-phd) by Pao Siangliulue
+- [Notes: PhD Survival Series](https://khhuang.me/blog/categories/#PhD%20Survival%20Series) by Kuan-Hao Huang
 
 ## Research Process
 
