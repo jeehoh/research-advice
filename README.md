@@ -62,6 +62,7 @@ Please feel free to fork this repository, suggest edits, or contribute additiona
 ## Job Market
 
 - [CS Jobs at Undergrad Institutions (PUIs)](https://cs-pui.github.io/)
+- [Academic Jobs Online](https://academicjobsonline.org/)
 - [Unsolicited advice on HCI (Industry) Job Market](https://minsukchang.com/blog/2026-01-14-hci-in-ai.md.html) by Minsuk Chang
 - [Industry Job Search Retrospective](https://kjfeng.me/blog/industry-job-search.html) by Kevin Feng
 
